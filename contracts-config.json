@@ -1,0 +1,57 @@
+{
+  "network": "Base Mainnet",
+  "chainId": 8453,
+  "rpcUrl": "https://mainnet.base.org",
+  "explorerUrl": "https://basescan.org",
+  "contracts": {
+    "ClubManager": {
+      "address": "0xd4BAB0d82948955B09760F26F5EDd5E19F2Bee55",
+      "abi": "./Base/0xd4BAB0d82948955B09760F26F5EDd5E19F2Bee55.json"
+    },
+    "ClubMembershipQuery": {
+      "address": "0x2A152405afB201258D66919570BbD4625455a65f",
+      "abi": "./Base/0x2A152405afB201258D66919570BbD4625455a65f.json"
+    },
+    "Web3ClubRegistry": {
+      "address": "0xD0F9eaf5987a7382AAf01B1553051fc705639FCE",
+      "abi": "./Base/0xD0F9eaf5987a7382AAf01B1553051fc705639FCE.json"
+    },
+    "Web3ClubNFT": {
+      "address": "0xe51DaB702d2A49791488d259CebbA583437727b5",
+      "abi": "./Base/0xe51DaB702d2A49791488d259CebbA583437727b5.json"
+    },
+    "ClubPassFactory": {
+      "address": "0x27d7E9855250d6Bc84850377E533219FB8794b92",
+      "abi": "./Base/0x27d7E9855250d6Bc84850377E533219FB8794b92.json"
+    },
+    "TemporaryMembership": {
+      "address": "0xFb5567Aaf6057bbf5D729d35f56C5688B36cC940",
+      "abi": "./Base/0xFb5567Aaf6057bbf5D729d35f56C5688B36cC940.json"
+    },
+    "TokenBasedAccess": {
+      "address": "0xd286EE3fD7115aB0bf1dC99f8Ce8685EAE200372",
+      "abi": "./Base/0xd286EE3fD7115aB0bf1dC99f8Ce8685EAE200372.json"
+    },
+    "Web3ClubGovernance": {
+      "address": "0x2D1c7083C8EAD07471CA360C28c6a925500C1BB7",
+      "abi": "./Base/0x2D1c7083C8EAD07471CA360C28c6a925500C1BB7.json"
+    },
+    "Web3ClubResolver": {
+      "address": "0x523d65CFc9Da66f5bB6544E6FbF31E393ed8Ad2A",
+      "abi": "./Base/0x523d65CFc9Da66f5bB6544E6FbF31E393ed8Ad2A.json"
+    },
+    "CrossChainVerification": {
+      "address": "0x8cEdb654f2D0157276b9E44c610b0c967C211a84",
+      "abi": "./Base/0x8cEdb654f2D0157276b9E44c610b0c967C211a84.json"
+    },
+    "Groth16Verifier": {
+      "address": "0x2b76ec6110d0885f7fed4701487f86f770bd5f79",
+      "abi": "./Base/0x2b76ec6110d0885f7fed4701487f86f770bd5f79.json"
+    },
+    "ProofOfOwnership": {
+      "address": "0x7587CA385f1e10c411638003dA0f1bd3C99b919e",
+      "abi": "./Base/0x7587CA385f1e10c411638003dA0f1bd3C99b919e.json"
+    }
+  }
+}
+
